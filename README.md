@@ -35,7 +35,7 @@ Welcome to the **Client Outreach Strategy** repository! This guide provides a st
    - A list of trigger words that reduce email deliverability  
    - Alternative phrasing for better inbox placement  
 
-7. **[Business Types List](./business-types-list.md)**  
+7. **[Business Types List](./business-list.md)**  
    - Categorized list of businesses ideal for outreach  
    - Niche industries and high-value client segments  
 
