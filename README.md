@@ -44,6 +44,9 @@
 ✅ Include a **clear call to action** (schedule a call, reply, etc.)  
 ✅ Follow up (send 2-3 follow-ups if no response)  
 
+### **Avoiding Spam in Cold Emails**
+For best practices on avoiding spam, check out [How to Avoid Spam in Cold Emailing](./avoid-spam-cold-emailing.md).
+
 ### **Cold Email Script:**
 
 **Subject:** Quick Question About [Their Business Name]  
