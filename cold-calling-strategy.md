@@ -1,4 +1,4 @@
-### **📞 Cold Calling Strategy**  
+# **📞 Cold Calling Strategy**  
 
 Cold calling is an effective way to generate leads and establish direct communication with potential clients. This guide provides essential preparation tips, call scripts, and best practices to maximize success.  
 
