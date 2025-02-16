@@ -22,6 +22,9 @@
 - **Yelp.com:** Find local businesses and their contact details
 - **LinkedIn:** Connect with decision-makers (CEOs, Managers, Owners)
 - **Business Directories:** Use sites like Yellow Pages, Clutch, and Houzz
+  
+- [List of Business Types](./business-list.md)
+
 
 ---
 
