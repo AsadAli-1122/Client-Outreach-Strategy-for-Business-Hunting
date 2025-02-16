@@ -1,20 +1,5 @@
 **Client Outreach Strategy for Business Hunting**
 
----
-
-## **How to Avoid Spam in Cold Emailing**
-
-✅ **Warm up your account** (start with 10-20 emails/day, then increase)  
-✅ **Use personalized emails** (avoid copy-pasting the same text)  
-✅ **Use a professional domain** (instead of @gmail.com)  
-✅ **Track opens/replies** (use tools like Mailtrack or GMass)  
-✅ **Send emails in batches** (e.g., 20-30 per hour)  
-✅ **Ask for replies** (Gmail trusts accounts that get responses)
-
-🔹 **Best Practice:** Use a mix of **Gmail + Cold Email Tools (Brevo, Mailgun, etc.)** for higher volume and better deliverability.
-
----
-
 ## **Finding Potential Clients**
 
 🔎 **Search Business Listings**
@@ -74,6 +59,18 @@ Looking forward to your thoughts.
 Best,  
 [Your Name]  
 [Your Contact Info]  
+
+
+## **How to Avoid Spam in Cold Emailing**
+
+✅ **Warm up your account** (start with 10-20 emails/day, then increase)  
+✅ **Use personalized emails** (avoid copy-pasting the same text)  
+✅ **Use a professional domain** (instead of @gmail.com)  
+✅ **Track opens/replies** (use tools like Mailtrack or GMass)  
+✅ **Send emails in batches** (e.g., 20-30 per hour)  
+✅ **Ask for replies** (Gmail trusts accounts that get responses)
+
+🔹 **Best Practice:** Use a mix of **Gmail + Cold Email Tools (Brevo, Mailgun, etc.)** for higher volume and better deliverability.
 
 ---
 
